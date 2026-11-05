@@ -1,4 +1,4 @@
-# Machine Failure Prediction using Machine Learning
+# Predictive-Maintenance-and-Equipment-Failure-Prediction
 
 ## Project Overview
 
@@ -110,7 +110,7 @@ This demonstrates how the trained model can be reused for predictive maintenance
 ## Project Structure
 
 ```text
-Machine-Failure-Prediction/
+Predictive-Maintenance-and-Equipment-Failure-Prediction/
 │
 ├── data/
 │   └── ai4i2020.csv
@@ -163,4 +163,3 @@ By analyzing machine operating parameters and identifying failure patterns, the 
 ## Author
 Amanraj Somawar
 
-# Predictive-Maintenance-and-Equipment-Failure-Prediction
