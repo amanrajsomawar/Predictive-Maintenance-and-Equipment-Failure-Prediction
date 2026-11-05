@@ -123,7 +123,6 @@ Predictive-Maintenance-and-Equipment-Failure-Prediction/
 │
 ├── README.md
 ├── requirements.txt
-└── .gitignore
 ```
 
 ## Installation and Execution
